@@ -1,4 +1,4 @@
-# CS2-DMA-PROJECT ANTI CHEAT PROJECT BYPASS
+# CS2-DMA-PROJECT ANTI CHEAT PROJECT BYPASS 
 ```sh-session
 (Open)PrivateSource² — a reasonable CS2 Private Source DMA for vss projects.
 ```
@@ -9,7 +9,7 @@
 <summary>Features (Drop Down)</summary>
   
 ### [1] : Vision Functions:
-  * ✔ 2 PCs required
+  * ✔ 2 PCs required 
   * ✔ Glow
   * ✔ RADAR
   * ✔ External cheat
